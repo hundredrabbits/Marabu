@@ -198,5 +198,5 @@ To change the **instrument controls**, use the arrow keys while `holding shift`.
 ## Extras
 
 - Download additional [themes](https://github.com/hundredrabbits/Themes).
-- Support this project through [Patreon](https://patreon.com/100).
+- Support this project through [Patreon](https://patreon.com/hundredrabbits).
 - See the [License](LICENSE.md) file for license rights and limitations (MIT).
